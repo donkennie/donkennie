@@ -9,10 +9,10 @@
 
 - 😊 Pronouns: He/him
 - 👋 Hi, I’m kennie. A Software Engineer.
-- 👀 I’m currently learning Microservice.
-- 🌱 I’m a c# learner- a backend developer. 
-- 💞️ I’m looking forward to collaborating on my new project.
-- 📫 How to reach me? 09057317586-via my telephone number OR my gmail address, ajeigbekehinde160@gmail.com.
+- 👀 I’m currently learning Microservice and Kubernetes.
+- 🌱 I’m a c# enthusiast- a backend developer. 
+- 💞️ I’m looking forward to working with you to see how I can bring your ideas to reality.
+- 📫 How to reach me? 09128207000-via my telephone number OR my gmail address, ajeigbekehinde160@gmail.com.
 
 ---
 
